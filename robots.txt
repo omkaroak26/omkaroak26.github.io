@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://omkaroak26.github.io/sitemap.xml
+Sitemap: https://omkarsoak.github.io/sitemap.xml
